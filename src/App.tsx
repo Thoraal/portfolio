@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 
 const projects = [
   {
-    title: "E-commerce Platform",
+    title: "E-commerce Platformsss",
     description: "A modern e-commerce platform built with React and Node.js",
     image: "https://images.unsplash.com/photo-1557821552-17105176677c?auto=format&fit=crop&q=80&w=1000",
     tags: ["React", "Node.js", "MongoDB"]
