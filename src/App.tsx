@@ -191,7 +191,7 @@ function App() {
               href="mailto:your.email@example.com"
               className={`p-4 ${darkMode ? 'bg-gray-800/50 text-gray-300 hover:text-white hover:bg-gray-700/80' : 'bg-white/50 text-gray-600 hover:text-gray-900 hover:bg-white/80'} backdrop-blur-sm rounded-full transition-all duration-300 transform hover:scale-110 hover:shadow-lg`}
             >
-              <Mail size={24} />
+              <message-circle-more size={24} />
             </a>
           </div>
         </div>
