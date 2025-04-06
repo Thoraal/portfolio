@@ -107,7 +107,7 @@ function App() {
         <div className="text-center">
           <h1 className="font-mono text-2xl font-bold sm:text-5xl md:text-5xl typewriter">
             <span className="block text-transparent bg-clip-text bg-gradient-to-r from-blue-600 via-purple-500 to-pink-500 animate-gradient">
-              Mi nombre es Alejandro Toral
+              Soy Alejandro Toral
             </span>
           </h1>
           <p className={`font-mono mt-6 max-w-md mx-auto text-base sm:text-lg md:mt-8 md:text-xl md:max-w-3xl backdrop-blur-sm ${darkMode ? 'bg-gray-800/30 text-gray-300' : 'bg-white/30 text-gray-500'} rounded-2xl p-6 shadow-lg`}>
